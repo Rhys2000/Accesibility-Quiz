@@ -163,3 +163,7 @@ address {
   text-align: center;
   padding: 0.3em;
 }
+
+* {
+  scroll-behavior: smooth;
+}
